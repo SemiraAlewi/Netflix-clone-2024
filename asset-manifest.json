@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SemiraAlewi.github.io/Netflix-clone-2024/static/css/main.6b09fd6b.css",
+    "main.js": "/SemiraAlewi.github.io/Netflix-clone-2024/static/js/main.232e78fa.js",
+    "static/media/NetflixLogo.png": "/SemiraAlewi.github.io/Netflix-clone-2024/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/SemiraAlewi.github.io/Netflix-clone-2024/index.html",
+    "main.6b09fd6b.css.map": "/SemiraAlewi.github.io/Netflix-clone-2024/static/css/main.6b09fd6b.css.map",
+    "main.232e78fa.js.map": "/SemiraAlewi.github.io/Netflix-clone-2024/static/js/main.232e78fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b09fd6b.css",
+    "static/js/main.232e78fa.js"
+  ]
+}
